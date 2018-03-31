@@ -1,4 +1,4 @@
-# Angular Jalali Date Picker
+# Angular Jalali Date Picker (Persian digit edition)
 This is a configurable jalali (persian, khorshidi, shamsi) date-picker build for Angular 2 - 5 applications and uses [jalali-moment](https://github.com/fingerpich/moment-jalaali) as its dependency. it's only Angular! No jQuery.
 [DEMO](https://fingerpich.github.io/jalali-angular-datepicker/)
 
