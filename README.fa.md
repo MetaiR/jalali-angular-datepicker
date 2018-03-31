@@ -1,4 +1,4 @@
-# Angular Jalali Date Picker
+# Angular Jalali Date Picker (نسخه اعداد فارسی)
 انتخاب گر تاریخ شمسی در انگولار ۴
 [دمو](https://fingerpich.github.io/jalali-angular-datepicker/)
 
