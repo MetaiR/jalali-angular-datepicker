@@ -4,7 +4,7 @@ This is a configurable jalali (persian, khorshidi, shamsi) date-picker build for
 
 Read this in other languages: [فارسی](./README.fa.md)
 
-[![Build Status](https://travis-ci.org/fingerpich/jalali-angular-datepicker.svg?branch=jalali-master)](https://travis-ci.org/fingerpich/jalali-angular-datepicker) 
+[![Build Status](https://travis-ci.org/MetaiR/jalali-angular-datepicker.svg?branch=master)](https://travis-ci.org/MetaiR/jalali-angular-datepicker)
 [![npm version](https://badge.fury.io/js/ng2-jalali-date-picker.svg)](https://badge.fury.io/js/ng2-jalali-date-picker)
 [![Package Quality](http://npm.packagequality.com/shield/ng2-jalali-date-picker.svg)](http://packagequality.com/#?package=ng2-jalali-date-picker)
 [![dependency Quality](https://david-dm.org/fingerpich/jalali-angular-datepicker.svg)](https://david-dm.org/fingerpich/jalali-angular-datepicker)
@@ -18,9 +18,9 @@ Read this in other languages: [فارسی](./README.fa.md)
 
 ## Installation:
 1. Download from npm:
-`npm install ng2-jalali-date-picker --save`  
+`npm install git+https://github.com/MetaiR/jalali-angular-datepicker.git#built --save`  
 2. import the `DpDatePickerModule` module in typescript (.ts) or es6 files like below:  
- `import {DpDatePickerModule} from 'ng2-jalali-date-picker';`  
+ `import {DpDatePickerModule} from 'ng2-jalali-date-picker-full-farsi';`  
 3. Add `DpDatePickerModule` to your module imports:  
 ```ts
  @NgModule({
@@ -166,7 +166,7 @@ In order to use the date-picker api user the `@ViewChild` annotation in the date
 Container component:
 ```ts  
 import {Component, ViewChild} from '@angular/core';
-import {DatePickerComponent} from 'ng2-jalali-date-picker';
+import {DatePickerComponent} from 'ng2-jalali-date-picker-full-farsi';
 
 @Component({
 selector: 'my-container',
