@@ -1,3 +1,7 @@
+branches:
+  except:
+  - built
+
 sudo: required
 dist: trusty
 language: node_js
