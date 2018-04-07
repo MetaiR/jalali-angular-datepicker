@@ -3575,6 +3575,7 @@ TimeSelectComponent.decorators = [
       display: inline-block;
     }
     dp-time-select .dp-time-select-controls {
+      direction: ltr !important;
       margin: 0;
       padding: 0;
       text-align: center;
