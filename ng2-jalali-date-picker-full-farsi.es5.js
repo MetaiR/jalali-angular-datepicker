@@ -1638,7 +1638,9 @@ var DatePickerComponent = (function () {
      * @return {?}
      */
     DatePickerComponent.prototype.onViewDateChange = function (value) {
-        value = DigitConvertor.toEnglish(value);
+        if (value !== null && value.toString().length !== 0) {
+            value = DigitConvertor.toEnglish(value);
+        }
         var /** @type {?} */ strVal = value ? this.utilsService.convertToString(value, this.componentConfig.format, this.componentConfig.locale) : '';
         if (this.dayPickerService.isValidInputDateValue(strVal, this.componentConfig)) {
             if (strVal) {

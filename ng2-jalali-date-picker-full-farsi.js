@@ -1604,7 +1604,9 @@ class DatePickerComponent {
      * @return {?}
      */
     onViewDateChange(value) {
-        value = DigitConvertor.toEnglish(value);
+        if (value !== null && value.toString().length !== 0) {
+            value = DigitConvertor.toEnglish(value);
+        }
         let /** @type {?} */ strVal = value ? this.utilsService.convertToString(value, this.componentConfig.format, this.componentConfig.locale) : '';
         if (this.dayPickerService.isValidInputDateValue(strVal, this.componentConfig)) {
             if (strVal) {
