@@ -1,6 +1,6 @@
 # Angular Jalali Date Picker (نسخه اعداد فارسی)
 انتخاب گر تاریخ شمسی در انگولار ۴
-[دمو](https://fingerpich.github.io/jalali-angular-datepicker/)
+[دمو](https://metair.github.io/jalali-angular-datepicker/)
 
 [![Build Status](https://travis-ci.org/fingerpich/jalali-angular-datepicker.svg?branch=jalali-master)](https://travis-ci.org/fingerpich/jalali-angular-datepicker) 
 [![npm version](https://badge.fury.io/js/ng2-jalali-date-picker.svg)](https://badge.fury.io/js/ng2-jalali-date-picker)
