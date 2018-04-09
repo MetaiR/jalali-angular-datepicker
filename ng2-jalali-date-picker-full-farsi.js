@@ -2720,11 +2720,11 @@ DayCalendarComponent.decorators = [
       border: none;
       outline: none;
       padding: 0;
+      border-radius: 50% !important;
     }
     dp-day-calendar.dp-material .dp-calendar-month:hover,
     dp-day-calendar.dp-material .dp-calendar-day:hover {
       background: #E0E0E0;
-      border-radius: 50%;
     }
     dp-day-calendar.dp-material .dp-selected {
       border-radius: 50%;
@@ -3269,7 +3269,6 @@ MonthCalendarComponent.decorators = [
       font-size: 0.7rem;
     }
     dp-month-calendar.dp-material .dp-calendar-month:hover {
-      border-radius: 50%;
       background: #E0E0E0;
     }
     dp-month-calendar.dp-material .dp-selected {
