@@ -41,7 +41,7 @@
   ],
   "dependencies": {
     "jalali-moment": "^3.1.1",
-    "persian-digit-tools": "^1.0.0"
+    "persian-digit-tools": "^1.0.2"
   },
   "devDependencies": {
     "@angular/cli": "^1.7.3",
