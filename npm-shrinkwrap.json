@@ -8212,9 +8212,9 @@
       "dev": true
     },
     "persian-digit-tools": {
-      "version": "1.0.0",
-      "resolved": "https://registry.npmjs.org/persian-digit-tools/-/persian-digit-tools-1.0.0.tgz",
-      "integrity": "sha512-xsm9MpC0787Ak4bIkrTnIe3v2grcvRmij14RlAK7UXy4kVBR0+iVCt24Cc7hBS5dY9T6jmEiMEc+ZN1l4ct+MQ=="
+      "version": "1.0.2",
+      "resolved": "https://registry.npmjs.org/persian-digit-tools/-/persian-digit-tools-1.0.2.tgz",
+      "integrity": "sha512-zmbUKiHAcFs5PWytL1ZUmyrSFbEjVHRBBuLpYyUoTBdAJYm9UJ87fQ/WVpYq7jir/sx6dctG+97e4xglfaOMtA=="
     },
     "pify": {
       "version": "3.0.0",
