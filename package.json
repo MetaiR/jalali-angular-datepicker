@@ -78,7 +78,7 @@
     "typescript": "~2.4.2",
     "uglify-js": "^3.5.3",
     "web-animations-js": "^2.2.5",
-    "zone.js": "^0.8.21"
+    "zone.js": "^0.8.29"
   },
   "angularCompilerOptions": {
     "skipTemplateCodegen": true,
