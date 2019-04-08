@@ -40,7 +40,7 @@
     "full"
   ],
   "dependencies": {
-    "jalali-moment": "^3.1.1",
+    "jalali-moment": "^3.3.1",
     "persian-digit-tools": "^1.0.0"
   },
   "devDependencies": {
