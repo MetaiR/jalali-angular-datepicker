@@ -57,7 +57,7 @@
     "@types/jasmine": "https://registry.npmjs.org/@types/jasmine/-/jasmine-2.5.38.tgz",
     "@types/node": "https://registry.npmjs.org/@types/node/-/node-6.0.94.tgz",
     "classlist.js": "^1.1.20150312",
-    "codelyzer": "^4.2.1",
+    "codelyzer": "^5.2.2",
     "core-js": "^2.5.4",
     "jasmine-core": "~2.5.2",
     "jasmine-spec-reporter": "~3.2.0",
